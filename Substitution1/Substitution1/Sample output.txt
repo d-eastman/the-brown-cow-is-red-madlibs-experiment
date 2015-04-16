@@ -1,0 +1,31 @@
+﻿First silly prototype
+
+Build by hand
+1: The laptop is floating.
+2: The balloon is new.
+3: The cat is blue.
+4: The laptop is floating.
+5: The dog is broken.
+
+Build by pattern
+1: The old airplane and the broken broken laptop were broken.
+2: The brown dog and the old red dog were old.
+3: The blue cow and the floating floating airplane were old.
+4: The red cat and the blue floating airplane were floating.
+5: The broken cat and the broken new airplane were brown.
+
+Build by pattern
+1: new laptop + brown airplane = red old cat.
+2: blue dog + red airplane = broken old laptop.
+3: new dog + brown laptop = red old balloon.
+4: brown cow + blue balloon = blue red cow.
+5: broken cat + broken airplane = floating old cat.
+
+Build by dynamic pattern
+1: The old cat changed from blue to blue as if the brown dog was new.
+2: The broken airplane and the floating balloon changed from brown to red as if the old cow was brown.
+3: The blue cat and the blue airplane and the floating cow changed from broken to old as if the red cat was floating.
+4: The red dog and the old cow and the blue laptop and the blue laptop changed from old to red as if the broken laptop was old.
+5: The floating airplane and the new balloon and the new dog and the broken cat and the brown cow changed from new to new as if the red balloon was red.
+
+Done
